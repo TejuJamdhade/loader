@@ -10,8 +10,8 @@
         setTimeout(() => {
           document.getElementById('popup').style.display = 'block';
           para.classList.add('blur');
-        }, 2000);
-      }, 2000);
+        }, 5000);
+      }, 5000);
     });
 
     // Close popup and remove blur
